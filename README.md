@@ -13,10 +13,10 @@ to ordinary Python functions.
 Use the project's existing Python environment from the repository root:
 
 ```bash
-python demo1.py
-python demo2.py
-python demo3.py
-python demo4.py
+uv run demo1.py
+uv run demo2.py
+uv run demo3.py
+uv run demo4.py
 ```
 
 `live_demo.py` (we will build in class) is a short example built directly from standard PySide6
